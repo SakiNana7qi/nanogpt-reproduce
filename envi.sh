@@ -1,0 +1,1 @@
+pip install transformers tiktoken datasets ipykernel
